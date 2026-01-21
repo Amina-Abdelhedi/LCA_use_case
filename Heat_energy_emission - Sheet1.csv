@@ -1,0 +1,12 @@
+" 
+         
+Heat_type",,ecoinvent-v3.5 Dataset,Amount (MJ),Unit,Comment,Proportion,CO2,GEO
+"Heat, for warm water heating, Zurich, Switzerland",,,1,MJ,,,,
+"Input, energy",,,,,,,,
+"Heat, central or small-scale, natural gas {CH}",,"Heat production, natural gas, at boiler condensing modulating <100kW",0.499,MJ,Share of gas heating,38.55%,0.0740342956,Europe without Switzerland (Europe without Switzerland)
+"Heat, central or small-scale, other than natural gas {CH}",,"Heat production, light fuel oil, at boiler 10kW, non-modulating",0.272,MJ,Share of oil heating,21.02%,0.1043513326,Europe without Switzerland (Europe without Switzerland)
+"Heat, district or industrial, other than natural gas {CH}",,"Heat from municipal waste incineration to generic market for heat district or industrial, other than natural gas",0.158,MJ,Share of district heating,12.21%,0.0002598572408,Switzerland (CH)
+"Heat, borehole heat pump {CH}",,"Heat production, borehole heat exchanger, brine-water heat pump 10kW",0.0598,MJ,Share from heat pumps,4.62%,0.02931681638,Europe without Switzerland (Europe without Switzerland)
+"Heat, central or small-scale, other than natural gas {CH}",,"Heat production, softwood chips from forest, at furnace 50kW",0.0095,MJ,Share from wood heating,0.73%,0.006017535825,Switzerland (CH)
+"Heat, central or small-scale, other than natural gas {CH}",,"Operation, solar collector system, Cu flat plate collector, multiple dwelling, for hot water",0.048,MJ,Share from solar thermal,3.71%,0.002793585312,Switzerland (CH)
+"Electricity, low voltage, Zurich, Switzerland",,,0.248,MJ,Share from electricity,19.16%,0.03328404518,Switzerland (CH)
