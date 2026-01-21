@@ -9,4 +9,5 @@ The use phase is modeled using a Monte Carlo simulation, accounting for user beh
 The objective is to capture the range and distribution of carbon emissions, rather than relying on a single average value.
 
 📄 The detailed methodology, assumptions, and results are available in use_phase_exercice.pdf.
+
 💻 The full implementation and simulations are provided in use_phase.ipynb.
