@@ -1,6 +1,8 @@
-This project is a personal data science exercise focused on estimating the total CO₂ emissions of the use phase of a cosmetic product, considering its usage during a shower.
+📌 Project Overview
 
-The use phase is modeled using a Monte Carlo simulation, accounting for user behavior and variability in key parameters such as:
+This project is a personal data science exercise aimed at estimating the total CO₂ emissions of the use phase of a cosmetic product, considering its usage during a shower.
+
+The use phase is modeled using a Monte Carlo simulation with 1,000 runs, capturing behavioral variability and uncertainty in key parameters such as:
 
 **- Shower duration**
 
@@ -8,8 +10,8 @@ The use phase is modeled using a Monte Carlo simulation, accounting for user beh
 
 **- Emission factor for heating energy**
 
-The objective is to capture the range and distribution of carbon emissions, rather than relying on a single average value.
+The objective is to analyze the distribution and range of carbon emissions, rather than relying on a single average value.
 
-📄 The detailed methodology, assumptions, and results are available in use_phase_exercice.pdf.
+📄 A detailed explanation of the methodology and results is available in use_phase.pdf.
 
-💻 The full implementation and simulations are provided in use_phase.ipynb.
+💻 The full simulation code is provided in use_phase.ipynb.
